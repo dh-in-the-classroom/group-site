@@ -1,8 +1,8 @@
 ---
 "The Tangible and Intangible Lives of Primary Sources"
 'Primary sources, whether they manifest in physical material culture or cultural memory, are an essential part of understanding how we choose what narratives to preserve.'
-https://www.loc.gov/item/mss506660083/manifest.json
-https://www.loc.gov/item/04021811/manifest.json 
+![image](https://www.loc.gov/item/mss506660083/manifest.json)
+![image](https://www.loc.gov/item/04021811/manifest.json) 
 
   Patrice R. Green
   - 
