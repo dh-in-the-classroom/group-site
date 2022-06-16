@@ -8,7 +8,6 @@ contributors:
     image: https://pbs.twimg.com/profile_images/1536907521402839041/D0EwY-vN_400x400.jpg
     bio: Hilary is an academic librarian who lives in a converted brewery with her spouse and cats.
     twitter: hilarycbus
-
 ---
 
 <iframe src="https://ourworldindata.org/grapher/press-freedom-rsf" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
