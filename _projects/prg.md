@@ -6,6 +6,7 @@ teaser: ![image](https://user-images.githubusercontent.com/107565881/174083530-0
 
 contributors:
   - name: Patrice R. Green
+  - 
     bio:  Patrice Green is a librarian and public historian based in Pennsylvania, USA. 
     image: ![image](https://user-images.githubusercontent.com/107565881/174084096-f4743595-01d0-4000-9f33-abc88e0973ae.png)
 
