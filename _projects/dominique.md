@@ -16,7 +16,6 @@ With this agreeement Major League owners unformally agreed to not  sign Black ba
 ![Bud Fowler the First Black Profesional Ball Player](https://upload.wikimedia.org/wikipedia/commons/9/96/Bud_Fowler.jpg) 
 
 ## Contributors 
-  - name: Dominique Wilkerson 
   Dominique Wilkerson is a rising third-year doctoral student at the University of Pennsylvania. Her research intrest include African American sports and gender history.
   Contact Information: wilkedo@sas.upenn.edu
   ![Dominique Wilkerson](https://upload.wikimedia.org/wikipedia/commons/8/8f/Fiori_di_Lavanda.jpg)
