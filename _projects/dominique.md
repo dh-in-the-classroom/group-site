@@ -7,11 +7,13 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/6/67/Jackie_robinson_sto
 <iframe src="https://www.exhibit.so/exhibits/dKMpblRlVtFVeiUT3JHB?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
 ## Introduction
-Jackie robinson was not the first African American player to intergrate baseball. All though many credit him as the national pastime's first black player, Bud Fowler is recognized as one of the first Black men to play organized baseball in 1854. Additionally, Moses and Welday Walker played with the Toledo club of the American Assoication in 1884. They along with Bud Fowler can be regarded as the 19th century's Jackie Robinsons. After the Civil War, the nation remained deeply divided and baseball's founding father imagined the sport as a tool rfeunification. 
+Jackie robinson was not the first African American player to intergrate baseball. Although many credit him as our national pastime's first Black player, Moses and Weldy Walker played with the Toledo club of the American Assoication in 1884. (The American Association would go on to combine with the National Association to form what we know as Major League Baseball today.) The Walker brothers can be regarded as the 19th century's Jackie Robinson. 
 
-However, they reimagined the sport with the exclusion of players like Moses and Weldy Walker by adhereing to the "gentleman's agreement." With this agreeement Major League owners agreed not to sign Black baseball players to their teams. This agreement helped keep Black baseball players out of the Major Leagues and helped continue segregation not only in baseball but in life.
+After the Civil War, the nation remained deeply divided and baseball's founding father imagined the sport as a tool that not only defined the nation but one that could  reunify it. Baseball's businessmen like Albert Spalding reimagined the sport with the exclusion of players like Bud Fowler and the Walker brothers by adhereing to a "gentleman's agreement " for more than fifty years.
 
-![Bud Fowler](https://upload.wikimedia.org/wikipedia/commons/9/96/Bud_Fowler.jpg)
+With this agreeement Major League owners unformally agreed to not  sign Black baseball players to their team. This agreement helped keep Black baseball players out of the Major Leagues and helped continue segregation in kind not only in baseball but in life. At the same time, it allowed players from the Spanish speaking Americas to cross the color line as labor pools for national leagues began to dwindle. 
+
+![Bud Fowler the First Black Profesional Ball Player](https://upload.wikimedia.org/wikipedia/commons/9/96/Bud_Fowler.jpg) 
 
 ## Contributors 
   - name: Dominique Wilkerson 
