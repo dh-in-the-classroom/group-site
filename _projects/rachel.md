@@ -6,8 +6,7 @@ teaser: "https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2
 contributors:
   - name: Rachel Klepper
     bio: is a PhD candidate in History and Education at Teachers College, Columbia University
-    image: /assets/images/tinder.jpg
-
+    image: https://www.tc.columbia.edu/che/people/RachelKlepperPhoto.jpg
 ---
 
 <iframe src="https://uploads.knightlab.com/storymapjs/6ffc3e2c69426e4330cde64b0630531a/test/index.html" frameborder="0" width="85%" height="600"></iframe>
