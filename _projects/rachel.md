@@ -1,6 +1,6 @@
 ---
 title: "Teaching and Learning on One Chelsea Block"
-excerpt: 'Mapping the interconnected histories of four institutions'
+excerpt: The three block area in Chelsea between 9th and 10th Avenues and 25th and 28th Streets contains four important sites for children spanning their educational, social, physical, residential, recreational, and cultural needs
 overlay_image: 'https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2.jpg'
 teaser: "https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2.jpg"
 contributors:
