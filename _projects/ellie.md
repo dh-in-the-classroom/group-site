@@ -5,8 +5,8 @@ overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lookin
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1898_Bird%27s_Eye_View_of_Chicago.jpg/220px-1898_Bird%27s_Eye_View_of_Chicago.jpg"
 contributors:
   - name: Ellie Palazzolo
-    bio: PhD candidate in history, trying to write a dissertation...
-    image: https://krieger.jhu.edu/history/wp-content/uploads/sites/32/2019/08/EPalazzolo.jpg
+    bio: is a PhD candidate in History at Johns Hopkins, trying to write a dissertation...
+    image: https://pbs.twimg.com/profile_images/1458948565728907267/5vegI8LE_400x400.jpg
     twitter: egpalazzolo
 ---
 
