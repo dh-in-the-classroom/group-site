@@ -6,7 +6,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1898_Bird%27s
 contributors:
   - name: **Ellie Palazzolo**
     bio: PhD candidate in history, trying to write a dissertation...
-    image: "https://krieger.jhu.edu/history/wp-content/uploads/sites/32/2019/08/EPalazzolo.jpg"
+    image: https://krieger.jhu.edu/history/wp-content/uploads/sites/32/2019/08/EPalazzolo.jpg
     twitter: egpalazzolo
 ---
 
