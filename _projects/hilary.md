@@ -7,7 +7,7 @@ contributors:
   - name: Hilary Bussell
     image: https://pbs.twimg.com/profile_images/1536907521402839041/D0EwY-vN_400x400.jpg
     bio: Hilary is an academic librarian who lives in a converted brewery with her spouse and cats.
-    twitter: @hilarycbus
+    twitter: hilarycbus
 
 ---
 
